@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #ccc;
+}
+
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.home-section {
+  padding: 50px;
+  background-color: #333;
+}
+
+.home-section h2 {
+  color: #fff;
+}
+
+.community-images img {
+  width: 150px;
+  margin: 10px;
+}
